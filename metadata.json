@@ -1,0 +1,5 @@
+{
+  "name": "Grocery Genius",
+  "description": "A smart grocery list and recipe application that helps you manage your pantry, create shopping lists, and get AI-powered recipe suggestions based on the ingredients you have. Data is stored locally for an offline-first experience.",
+  "requestFramePermissions": []
+}
